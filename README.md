@@ -1,5 +1,5 @@
 # Hatronika Energy Platform
-
+BEP20 - 0x5cc47ee03e76ada42b34683fc5743e9d1572b4cf
 A modern React-based web application for solar energy system configuration, investment opportunities, and energy portfolio management. Built with Vite for optimal development experience and performance.
 
 ## 🚀 Features
